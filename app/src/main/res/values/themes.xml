@@ -1,0 +1,6 @@
+<resources>
+    <!-- 无 ActionBar 的基础主题，界面全部由 Compose 绘制。 -->
+    <style name="Theme.ShenmaoCamera" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
